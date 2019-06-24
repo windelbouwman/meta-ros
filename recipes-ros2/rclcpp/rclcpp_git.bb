@@ -8,7 +8,7 @@ DEPENDS = " \
     rcl \
 "
 
-SRCREV = "bea1a52e24eaea0ad141a4d13dfa4606fcf190e7"
+SRCREV = "bfee90ab7a210657e1dc02c6b7754eb917687513"
 SRC_URI = "git://github.com/ros2/rclcpp.git;protocol=git;"
 
 inherit ament pythonpath-insane

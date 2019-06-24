@@ -8,7 +8,7 @@ DEPENDS = " \
     rmw-implementation \
 "
 
-SRCREV = "b41d4e333e2b977f7c93a18009cd93a8db5e87f0"
+SRCREV = "1bf11ed0c2b53090f990262ba4003d63cb1e5460"
 SRC_URI = "git://github.com/ros2/rcl.git;protocol=git;"
 
 inherit ament

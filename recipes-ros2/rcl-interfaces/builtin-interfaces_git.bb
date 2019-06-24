@@ -17,7 +17,7 @@ DEPENDS = " \
     python-cmake-module \
 "
 
-SRCREV = "22340f5828a8ea54675d47bef604d7c51fc9e101"
+SRCREV = "bfa9c43dd7d8cfc5c6fcba8a164d8ef317a386d7"
 SRC_URI = "git://github.com/ros2/rcl_interfaces.git;protocol=git;"
 
 ROS_BPN = "builtin_interfaces"

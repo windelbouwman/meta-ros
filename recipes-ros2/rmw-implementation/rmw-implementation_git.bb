@@ -11,7 +11,7 @@ DEPENDS = " \
     poco \
 "
 
-SRCREV = "856611439680209e46d0f4fc4c79d62e7c29867d"
+SRCREV = "7e88ba2afd6b6b0066c4f7b5fd6ed4aaa9d92667"
 SRC_URI = "git://github.com/ros2/rmw_implementation.git;protocol=git; \
            file://0001-get-rid-of-poco-vendor-dependency.patch;patchdir=.. \
            "
